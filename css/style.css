@@ -1,0 +1,71 @@
+body, h2, div, p {margin: 0; padding: 0; font-family: 'Noto Serif KR' }
+body{margin: auto; word-break:keep-all;}
+text{word-break:keep-all;}
+header{height:1000px; width:80%; margin: auto; margin-top: 100px; text-align: center; }
+.bg1{background: url('../img/img1-1.png'); background-size: cover; height:874px; margin: auto; text-align: center; }
+h1{font-family: 'Noto Serif KR'; font-weight: 400; font-size: 5em;  text-align: center; writing-mode: vertical-lr; margin: auto;}
+section{margin-bottom: 900px}
+h2{font-synthesis: 2em}
+.a{text-align: center; margin: auto; font-family: 'Noto Serif KR'; font-weight: 500px; font-size: 1.2em; color: navy; 
+margin-top: 500px; line-height: 2  }
+.b{margin-bottom: 80px}
+.c{margin: auto; text-align: center; width: 1000px; display: flex;}
+.c-2{margin: auto; text-align: center; width: 1100px; display: flex;}
+.c-1{margin: auto; text-align: center; width: 1100px; display: flex;}
+
+.d{width: 50%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 900px;}
+.e{width: 50%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 900px}
+.f{width: 30%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 900px}
+.g{text-align: left; margin: auto; font-family: 'Noto Serif KR'; width: 1000px; margin-bottom: 900px}
+
+.j{width: 42%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 900px;}
+.k{width: 53%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 900px}
+
+.img{width: 650px}
+.img2{width: 500px}
+.img3{height: 520px; }
+.b0{margin-bottom: 0px}
+.blue{color: navy; }
+
+.strong{font-weight: 400}
+
+#mgb{margin-top: 160px}
+#abs1{position: absolute;  top: 5130px; left: 850px; width:600px; z-index:-1}
+#b0{margin-bottom: 30px; text-align: center;}
+#b1{margin-bottom: 30px; margin-left:; text-align: center;}
+#p{padding-left: px; text-align: center;}
+#h{line-height: 1.7}
+#p-2{text-align: center;}
+#bzero{margin-bottom: 650px}
+#mgb5{margin-bottom: 400px}
+
+.scale-up-ver-bottom {
+	-webkit-animation: scale-up-ver-bottom 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	        animation: scale-up-ver-bottom 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+
+
+
+.ani{position: relative;
+  animation: mymove infinite;
+  animation-duration: 3s;}
+
+
+
+@keyframes mymove{
+  from {top: -20px;}
+  to {top: 0px;}
+}
+a : hover{transition: 0.5s}
+#c{height: 450px; margin-right: 0px; margin-left: 0px; margin-bottom: 600px;}
+#c-1{height: 450px; margin-left: 0px; margin-right: 50px; margin-bottom: 600px;}
+#c-2{height: 450px; margin-right: 0px; margin-left: 0px; margin-bottom: 600px;}
+
+
+
+
+
+
+
+

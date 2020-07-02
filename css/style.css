@@ -52,6 +52,10 @@ margin-top: 500px; line-height: 2  }
   animation-duration: 3s;}
 
 
+div-1:hover {
+  opacity: 0.5;
+}
+
 
 @keyframes mymove{
   from {top: -20px;}
